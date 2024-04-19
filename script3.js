@@ -82,3 +82,4 @@ myObjects = null; // Set the array to null, making all objects unreachable
 
 // At some point, the garbage collector will run and reclaim the memory occupied by the objects
 // using the mark and sweep algorithm
+//well set 
